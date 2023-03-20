@@ -1,7 +1,7 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Saurabh Abbi",
+  title: "Alaap Gosher",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
@@ -12,7 +12,7 @@ module.exports = {
   shortBaseUrl: "www.tmtalentmanagement.com", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Saurabh Abbi",
+  name: "Alaap Gosher",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "CEO and Partner at TM Ventures Pvt. Ltd.",
+  tagline: "Co-Founder at TM Ventures Pvt. Ltd.",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
@@ -58,36 +58,36 @@ module.exports = {
     },
     {
       name: "Work",
-      desc: "abbi@tmventures.in",
-      url: "mailto:abbi@tmventures.in",
+      desc: "alaapg@tmventures.in",
+      url: "mailto:alaapg@tmventures.in",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
      {
       name: "Personal",
-      desc: "saurabh.abbi@gmail.com",
-      url: "mailto:saurabh.abbi@gmail.com",
+      desc: "alaapg89@gmail.com",
+      url: "mailto:alaapg89@gmail.com",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
     {
       name: "Twitter",
-      desc: "@Saurabh_abbi",
-      url: "https://twitter.com/Saurabh_abbi",
+      desc: "@AlaapG",
+      url: "https://twitter.com/alaapg",
       fa: "fab fa-twitter",
       textColor: "text-twitter",
     },
     {
       name: "LinkedIn",
-      desc: "@Saurabh Abbi",
-      url: "https://www.linkedin.com/in/saurabh-abbi-15170519/",
+      desc: "@Alaap Gosher",
+      url: "https://www.linkedin.com/in/alaap-gosher-652463153/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
        {
       name: "Instagram",
-      desc: "@saurabhabbi",
-      url: "https://www.instagram.com/saurabhabbi/",
+      desc: "@alaapg",
+      url: "https://www.instagram.com/alaapg/",
       fa: "fab fa-instagram",
       textColor: "text-instagram",
     },
