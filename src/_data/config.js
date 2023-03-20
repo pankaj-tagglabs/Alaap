@@ -93,7 +93,7 @@ module.exports = {
     },
     {
       name: "Save Contact",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/Abbi/Saurabh_contact.vcf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/alaapg/Alaap_contact.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
     },
