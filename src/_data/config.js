@@ -63,13 +63,6 @@ module.exports = {
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
-     {
-      name: "Personal",
-      desc: "alaapg89@gmail.com",
-      url: "mailto:alaapg89@gmail.com",
-      fa: "fas fa-envelope",
-      textColor: "text-gray-600",
-    },
     {
       name: "Twitter",
       desc: "@AlaapG",
